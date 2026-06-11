@@ -1,0 +1,2 @@
+# pear_ripeness_analysis
+ナシの熟度分析アプリの作成について
